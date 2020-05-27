@@ -1,0 +1,20 @@
+[
+    {
+        "Model": "258",
+        "technical_Owner": "Sanctum_Networks",
+        "url": "https://sanctum-networks.com/",
+        "vendorName": "kamakya"
+    },
+    {
+        "Model": "456",
+        "technical_Owner": "justifi",
+        "url": "https://justificloud.com/",
+        "vendorName": "swetha"
+    },
+    {
+        "Model": "567",
+        "technical_Owner": "geeksforgeeks",
+        "url": "https://www.geeksforgeeks.org/",
+        "vendorName": "raviteja"
+    }
+]

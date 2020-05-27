@@ -1,0 +1,17 @@
+[
+    {
+        "technical_Owner": "flaskrestx.org",
+        "url": "https://flask-restx.readthedocs.io/en/latest/",
+        "vendorName": "flask-restx"
+    },
+    {
+        "technical_Owner": "flask.org",
+        "url": "https://flask.palletsprojects.com/en/1.1.x/",
+        "vendorName": "flask"
+    },
+    {
+        "technical_Owner": "github",
+        "url": "https://github.com/",
+        "vendorName": "git"
+    }
+]

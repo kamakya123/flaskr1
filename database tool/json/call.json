@@ -1,0 +1,20 @@
+[
+    {
+        "APP-Id": "APP-1",
+        "technical_Owner": "tutorialspoint",
+        "url": "https://www.tutorialspoint.com/index.htm",
+        "vendorName": "tutorial"
+    },
+    {
+        "APP-Id": "APP-2",
+        "technical_Owner": "javaT",
+        "url": "https://www.javatpoint.com/",
+        "vendorName": "java"
+    },
+    {
+        "APP-Id": "APP-3",
+        "technical_Owner": "google.com",
+        "url": "https://www.google.com/",
+        "vendorName": "google"
+    }
+]

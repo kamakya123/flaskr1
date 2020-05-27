@@ -1,0 +1,38 @@
+[
+    {
+        "ip_address": "10.0.0.1",
+        "technical_Owner": "Sanctum_Networks",
+        "url": "https://www.kamakya.com@#%123",
+        "vendorName": "kamakya"
+    },
+    {
+        "ip_address": "10.0.0.2",
+        "technical_Owner": "bosch",
+        "url": "https//http://www.swetha.com$%^&",
+        "vendorName": "swetha"
+    },
+    {
+        "ip_address": "10.0.0.3",
+        "technical_Owner": "benz",
+        "url": "http://www.raviteja.com@#$%^&",
+        "vendorName": "raviteja"
+    },
+    {
+        "ip_address": "10.0.0.4",
+        "technical_Owner": "google",
+        "url": "http://www.google.com#$%",
+        "vendorName": "Abine"
+    },
+    {
+        "ip_address": "10.0.1.1",
+        "technical_Owner": "Accenture",
+        "url": "http://www.sanctum.com@!123",
+        "vendorName": "Abusoft"
+    },
+    {
+        "ip_address": "10.0.1.2",
+        "technical_Owner": "Microsoft",
+        "url": "http://www.jsutificloud.com#*",
+        "vendorName": "azure"
+    }
+]
